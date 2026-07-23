@@ -1,0 +1,21 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+httpx==0.25.2
+motor==3.3.2
+pymongo==4.6.0
+google-generativeai==0.3.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+aiohttp==3.9.1
+pygithub==2.1.1
+requests==2.31.0
+python-jose[cryptography]==3.3.0
+# Pin compatible dependencies to avoid RequestsDependencyWarning
+urllib3==1.26.16
+charset_normalizer==2.1.1
+dnspython>=2.3.0
+passlib[bcrypt]==1.7.4
+email-validator==2.1.0
+reportlab==4.0.9

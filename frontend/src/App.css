@@ -1,0 +1,8 @@
+/* Application-specific styles (kept minimal). */
+
+/* Place component-level CSS here if needed. Tailwind utilities are in index.css */
+
+/* Example helper classes */
+.app-container {
+	min-height: 100vh;
+}
